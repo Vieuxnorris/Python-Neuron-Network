@@ -9,3 +9,4 @@
 * numpy optimal Neuron layer
 
 **Adding Layer**
+* add hidden layer
