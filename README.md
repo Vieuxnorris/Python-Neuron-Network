@@ -1,3 +1,3 @@
 # Python-Neuron-Network
 
-** First Neuron **
+**First Neuron**
