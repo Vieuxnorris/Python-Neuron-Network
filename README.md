@@ -2,6 +2,7 @@
 
 **First Neuron**
 * Single Neuron
+* 3 Neuron layer
 * dynamique Neuron layer
 * numpy Single Neuron
 * numpy dynamique Neuron layer
