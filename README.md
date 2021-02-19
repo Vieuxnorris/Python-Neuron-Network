@@ -6,4 +6,5 @@
 * numpy Single Neuron
 * numpy dynamique Neuron layer
 * numpy optimal Neuron layer
+
 **Adding Layer**
