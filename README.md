@@ -10,3 +10,4 @@
 
 **Adding Layer**
 * add hidden layer
+* Training
