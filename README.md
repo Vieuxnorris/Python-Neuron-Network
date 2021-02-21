@@ -11,5 +11,9 @@
 **Adding Layer**
 * add hidden layer
 
+**Actif fonction**
+* ReLU
+* Softmax
+
 **Project**
 * Training
